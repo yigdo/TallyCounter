@@ -52,7 +52,7 @@ namespace <YourNamespace>
 	  {
 	    TallyCounter TC = new TallyCounter;
 	  
-        Console.ReadKey();
+            Console.ReadKey();
 	  }
 	}
 }
